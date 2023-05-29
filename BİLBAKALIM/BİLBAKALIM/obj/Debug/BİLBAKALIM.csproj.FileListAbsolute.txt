@@ -1,0 +1,13 @@
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\bin\Debug\BİLBAKALIM.exe.config
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\bin\Debug\BİLBAKALIM.exe
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\bin\Debug\BİLBAKALIM.pdb
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.csproj.AssemblyReference.cache
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.Form1.resources
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.Form2.resources
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.Form3.resources
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.Form4.resources
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.Properties.Resources.resources
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.csproj.GenerateResource.cache
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.csproj.CoreCompileInputs.cache
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.exe
+C:\Users\cakir\source\repos\BİLBAKALIM\BİLBAKALIM\obj\Debug\BİLBAKALIM.pdb
